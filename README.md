@@ -74,9 +74,9 @@ mysql -u root -p database_name < file.sql
 - Deadlock Handling
 - Introduction to NoSQL
 
-## 👨‍💻 Author
+## *With Love from* 
 
-**Your Name Here**
+**Aryan 💚**
 
 ## 📝 License
 
